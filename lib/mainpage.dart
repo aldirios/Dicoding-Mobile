@@ -44,7 +44,6 @@ class MainPage extends StatelessWidget {
                       ),
                     ),
                   ],
-                  overflow: Overflow.visible,
                 ),
               ),
               
